@@ -51,7 +51,6 @@
 ### [肺村战疫](https://github.com/sheencity/nCoVTowerDefense)
 
 一款基于UE4开发的新型冠状病毒背景下的公益塔防游戏。
-# 参考图
 ![image](https://raw.githubusercontent.com/sheencity/nCoVTowerDefense/dev/Picture/Pic01.jpg)
 ![image](https://raw.githubusercontent.com/sheencity/nCoVTowerDefense/dev/Picture/Pic02.jpg)
 
