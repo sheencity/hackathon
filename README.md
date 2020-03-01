@@ -48,5 +48,50 @@
 
 ## Sheencity Hackathon 2020 成果汇总
 
-*路演完成后追加*
+### [肺村战疫](https://github.com/sheencity/nCoVTowerDefense)
 
+一款基于UE4开发的新型冠状病毒背景下的公益塔防游戏。
+# 参考图
+![image](https://raw.githubusercontent.com/sheencity/nCoVTowerDefense/dev/Picture/Pic01.jpg)
+![image](https://raw.githubusercontent.com/sheencity/nCoVTowerDefense/dev/Picture/Pic02.jpg)
+
+### [Pure-Land 净土](https://github.com/sheencity/pure-land)
+
+为了人类生活的更加美好而努力，在新型冠状病毒肆虐的环境中，为你在你的生活周边寻找一方净土。
+
+- 显示确诊和疑似的病患的小区信息。
+- 显示发热定点医院的信息。
+- 显示火车站和其相关的病患同行的列车信息。
+- 显示飞机场和其相关的病患同行的航班信息。
+- 搜索你附近的有关病患的信息。
+
+### [Man-vs-nCoV 战疫](https://github.com/sheencity/Man-vs-nCoV)
+
+- 展示各省份的确诊人数
+- 展示各省市的确诊，疑似，治愈，死亡的时间折线图，以及每天新增确诊，新增疑似的人数
+- 各省市定点医疗机构的查询
+
+### [VictoryBot 防疫精灵](https://github.com/sheencity/victory-bot)
+
+A online bot running at wechat, based on Node.js.
+It can query the current situation of pneumonia, the confirmed community, the experts and the number of people infected in the city.
+
+### [Project X](https://github.com/sheencity/project-x)
+
+#### Backgroud
+The epidemic 2019-nCov in Wuhan has affected the hearts of the whole wrold. At the peak of the Spring Festival Travle, people flowed and the country fell into a rapid circulation of viruses.
+
+#### Motivation
+Help people find out if there is a virus carrier during the Spring Festival Journey.
+
+### [Shake](https://github.com/sheencity/shake)
+
+- All is realtime data
+- Monitor the world's viral infections
+- Show the latest news about viruses
+- Pivot view of virus infection
+- Rumors about the epidemic
+- Get all above using geek's way
+
+![demo](https://raw.githubusercontent.com/sheencity/shake/master/docs/demo.png)
+![demo](https://raw.githubusercontent.com/sheencity/shake/master/docs/demo.gif)
