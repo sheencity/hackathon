@@ -85,6 +85,8 @@ Help people find out if there is a virus carrier during the Spring Festival Jour
 
 ### [Shake](https://github.com/sheencity/shake)
 
+Command-line dashboard for monitor 2019-nCoV
+
 - All is realtime data
 - Monitor the world's viral infections
 - Show the latest news about viruses
